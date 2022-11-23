@@ -1,0 +1,1 @@
+Extract the downloaded zip to your desktop and just double click the button! To quit the process, press 'q'
