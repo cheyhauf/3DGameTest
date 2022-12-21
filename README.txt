@@ -1,1 +1,1 @@
-Extract the downloaded zip to your desktop and just double click the button! To quit the process, press 'q'
+A simple demonstration of the 3D workflow from the open source 3D modeling software, Blender, into the open source game engine Godot. The engine showcases some simple game mechanics such as raytracing for interaction within the world, as well as linearlly interpolated, or mathematically smooth movement using a simplified workflow within the engine's editor. 
